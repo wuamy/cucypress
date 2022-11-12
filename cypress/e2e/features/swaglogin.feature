@@ -1,5 +1,4 @@
-Feature: duckduckgo.com
-
+Feature: saucedemo.com
   Scenario: visiting the frontpage
-    When I visit duckduckgo.com
+    When I visit saucedemo.com
     Then I should see a search bar
