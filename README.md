@@ -23,6 +23,7 @@ An in-depth paragraph about your project and overview of use.
 * Install esbuild
 * npm i -D cypress @bahmutov/cypress-esbuild-preprocessor esbuild
 * config:https://github.com/JoanEsquivel/cypress-cucumber-boilerplate
+* npm uninstall <package_name>
 
 ### Executing program
 
